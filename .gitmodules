@@ -1,0 +1,3 @@
+[submodule "LLM_Approaches/LLM_Approaches/llama3"]
+	path = LLM_Approaches/LLM_Approaches/llama3
+	url = https://github.com/meta-llama/llama3
